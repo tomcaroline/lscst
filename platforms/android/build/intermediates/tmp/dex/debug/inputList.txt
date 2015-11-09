@@ -1,0 +1,2 @@
+F:\ionic\lscst\platforms\android\build\intermediates\classes\debug
+F:\ionic\lscst\platforms\android\build\intermediates\pre-dexed\debug\classes-15c29c6059672d86d6f353d913ea59541feed72c.jar
